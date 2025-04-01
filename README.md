@@ -41,15 +41,6 @@ Follow these steps to run the project locally:
 
 ---
 
-## 📸 App Screenshots
-
-| Feature | Preview |
-|---------|---------|
-| **Home Page** | ![Home Page](/public/Screenshot%20(1).png) |
-| **Product Details** | ![Search](/public/Screenshot%20(2).png) |
-| **Movie Details** | ![Details](/public/Screenshot%20(3).png) |
-| **Cart Details** | ![Details](/public/Screenshot%20(4).png) |
-
 
 ---
 
