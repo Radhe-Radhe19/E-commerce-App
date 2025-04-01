@@ -6,9 +6,7 @@
 
 **Le Fergusion** is a React-based shopping platform offering product search, sorting, and filtering features to enhance your shopping experience. Simple, efficient, and tailored to your needs!
 
-🔗 Live Demo:** [Link]( place_your_url _here) 
-
-🎥 **Video Demo:** [Link](place_your_url _here)
+🔗 Live Demo:** [Link](https://e-commerce-app-rho-lac.vercel.app/) 
  
  
 ---
@@ -80,4 +78,4 @@ Follow these steps to run the project locally:
 
 ---
 
-*Created with ❤️ by [Your_name](https://github.com/your_github_username)*
+*Created with ❤️ by [Swati Todwal](https://github.com/Radhe-Radhe19)*
