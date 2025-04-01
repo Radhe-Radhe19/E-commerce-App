@@ -41,9 +41,6 @@ Follow these steps to run the project locally:
 
 ---
 
-
----
-
 ## ⚙️ Tech Stack
 **Build Tools:**
 - Visual Studio code
